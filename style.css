@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  font-family: "Lexend", "Abril Fatface", sans-serif;
+  text-rendering: optimizeSpeed;
+  font-size: 1rem;
+}
+
+.app {
+  padding: 93px 154px 50px 154px;
+}
+
+.content {
+  display: inline-block;
+}
+
+.intro h2 {
+  font-family: "Abril Fatface";
+  font-size: 63px;
+}
+
+.content h3 {
+  font-family: "Lexend";
+  font-size: 32px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
