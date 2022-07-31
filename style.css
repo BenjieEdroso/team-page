@@ -3,29 +3,58 @@
   padding: 0;
   box-sizing: border-box;
 }
-html,
+
 body {
-  font-family: "Lexend", "Abril Fatface", sans-serif;
-  text-rendering: optimizeSpeed;
   font-size: 1rem;
-}
-
-.app {
-  padding: 93px 154px 50px 154px;
-}
-
-.content {
-  display: inline-block;
+  font-family: "Lexend", "Abril Fatface";
+  text-rendering: optimizeSpeed;
 }
 
 .intro h2 {
   font-family: "Abril Fatface";
-  font-size: 63px;
+  font-size: 48px;
+  padding: 0 44px;
 }
 
-.content h3 {
-  font-family: "Lexend";
-  font-size: 32px;
-  font-weight: 600;
-  text-transform: uppercase;
+.intro h3 {
+  margin-top: 80px;
+  font-size: 24px;
+  padding: 0 44px;
+}
+
+.intro p {
+  padding: 0 44px;
+  margin-top: 20px;
+}
+
+.members {
+  width: 100%;
+}
+
+.member {
+  width: fit-content;
+  margin: 80px auto 0 auto;
+}
+
+.title {
+  margin-bottom: 15px;
+}
+
+.name {
+  margin-top: 15px;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.footer h2 {
+  margin: 80px 0;
+  padding: 0px 44px;
+  font-family: "Abril Fatface";
+  font-size: 48px;
+}
+
+.copy {
+  padding: 0px 44px;
+  font-size: 20px;
+  margin-bottom: 80px;
 }
