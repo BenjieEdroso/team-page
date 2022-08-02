@@ -6,7 +6,7 @@ Designed and Developed by: Benjie Edroso
 
 ### Goal:
 
-Create a 404 not found page.The page should be responsive.
+Create a my page team.The page should be responsive.
 
 ### User story:
 
@@ -16,8 +16,8 @@ Made some style modifications to cater different device views in chrome dev tool
 
 ### Desktop view
 
-![desktop](./assets/team-desktop.jpg)
+![desktop](./assets/team-desktop.png)
 
 ### Mobile view
 
-![desktop](./assets/mobile.jpg)
+![desktop](./assets/team-mobile.png)
