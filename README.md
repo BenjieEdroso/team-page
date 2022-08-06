@@ -1,4 +1,4 @@
-# team-page
+# teami
 
 ## a responsive team page for dummy company
 
